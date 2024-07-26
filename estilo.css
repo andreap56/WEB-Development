@@ -1,0 +1,15 @@
+.central {text-align: center;}
+    h1{color:blue; font-size:20px;}
+    h1{font-family:Arial}
+    .supertítulo{font-size: 30px}
+    #tituloprincipal{font-size:90px;}
+    h2{color:red; font-size:40px;}
+    h2{font-family: Arial, Helvetica, sans-serif;}
+    .minhalista li {
+        color:crimson
+    }
+
+    p{background-color: chartreuse;}
+    p{background-color:coral;}
+
+    body{background-color:lightyellow;}
